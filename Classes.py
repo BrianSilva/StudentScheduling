@@ -69,7 +69,7 @@ class Student:
             comparison = 1
         elif v1 == v2:
             if len(fields) == 1:
-                comparison = 0bgfegrdncfgchjdjytkfgjhvbkuy
+                comparison = 0
             else:
                 comparison = self.compare(student2, fields[1:])
         return comparison
